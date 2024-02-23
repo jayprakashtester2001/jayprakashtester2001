@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakashtester2001&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashtester2001" /> </p>
 
-- 🌱 I’m currently learning **REST API and JENKINS**
+- 🌱 I’m currently learning :- **REST API and JENKINS**
 - 🪄 Programming Langunge :- **Java, JSON, and SQL... 🔥🔥**
-- 🌱 Framework  **Cucumber(BDD) and TestNG(TDD) framework ...😎**
+- 🌱 Framework :-  **Cucumber(BDD) and TestNG(TDD) framework ...😎**
 - 👀 Testing:- **Manual testing, Automation testing and Rest API Automation...**
 - 📫 Tools, Software and IDE :- **Eclipse, Postman, Selenium(WebDriver), Maven, Apache POI, Git/Github, and Jira tool...💕💞**
 
